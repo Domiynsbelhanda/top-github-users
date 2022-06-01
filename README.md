@@ -549,10 +549,12 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 	<tr>
 		<td>
 			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/congo.md">
-				Congo
+				Congo Kinshasa & Brazza
 			</a>
 		</td>
 		<td>
+			<code>Kinshasa</code>
+			<code>Lubumbashi</code> 
 			<code>Brazzaville</code> 
 			<code>Pointe-noire</code> 
 		</td>
